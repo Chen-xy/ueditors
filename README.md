@@ -3,7 +3,7 @@
 #使用:
   下载到本地后,npm install。
 #博客说明地址:
-  http://blog.163.com/ch_xy/blog/static/2475200502015316113454850
+  http://www.cnblogs.com/Chen-xy/p/4466425.html
 #ueditor：
   https://github.com/netpi/ueditor
 
