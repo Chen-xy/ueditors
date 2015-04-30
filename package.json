@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "author": "Chen-xy",
     "private": true,
-    "repository": "",
+    "repository": "https://github.com/Chen-xy/ueditors",
     "scripts": {
         "start": "node app.js"
     },
