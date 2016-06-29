@@ -1,9 +1,11 @@
 {
     "name": "ueditors",
-    "version": "0.0.0",
+    "description":"基于ueditor编辑器的Demo",
+    "version": "0.0.1",
     "author": "Chen-xy",
+    "main":"app.js",
     "private": true,
-    "repository": "",
+    "repository": "https://github.com/Chen-xy/ueditors",
     "scripts": {
         "start": "node app.js"
     },
